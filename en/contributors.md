@@ -16,6 +16,7 @@ Below is a list of contributors both individuals and groups (in no particular or
 - Mohan Radhakrishnan
 - BGJUG (Ivan, Martin, Dmitri)
 - CeJUG (Helio, Paulo)
+- SouJava (Thomas)
 
 If you don't find your name on the list above, please ping us and let us know, we will add it here.
 
